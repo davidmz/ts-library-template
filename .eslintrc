@@ -18,7 +18,9 @@
     "prettier/prettier": [
       "error",
       {
-        "endOfLine": "auto"
+        "endOfLine": "auto",
+        "trailingComma": "all",
+        "arrowParens": "always"
       }
     ]
   }
